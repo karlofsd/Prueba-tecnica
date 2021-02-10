@@ -5,7 +5,7 @@ Post manager: create, read, update and delete posts
 storage: local storage
 state manager: redux
 
-#Installation
+##Installation
 
 Install modules with:
 
